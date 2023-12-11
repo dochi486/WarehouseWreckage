@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/Advanced_Lighting.umap",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/Minimal_Default.umap",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/StarterMap.umap",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/Minimal_Default_BuiltData.uasset",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/StarterMap_BuiltData.uasset",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/BP_Projectile.uasset",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/MainMap.umap",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/topms/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel.uasset"
+			]
+		}
+	]
+}
